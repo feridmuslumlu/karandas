@@ -1,0 +1,141 @@
+.ody{
+    margin: 0;
+    padding: 0
+}
+.content{
+    background-image: url("kk.jpg");
+    width: 100%;;
+ min-height: 30rem;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 8rem;
+padding-bottom: 8rem
+}
+.content .content-box h1{
+    font-size: 80px;
+    padding-top: 120px;
+    padding-bottom:10px;
+
+ 
+}
+.content-box{
+    text-align: center
+
+    
+}
+.link{
+    margin-top:50px;
+}
+.link a{
+    background: #1d809f;
+padding:20px 35px;
+border-radius: 3px;
+color: white
+}
+.yazilar{
+text-align: center;
+margin-top: 130px;
+padding: 56px 0;
+}
+.yazi{
+    font-weight: 700;
+
+    font-size: 30px
+
+}
+.nnn{
+    padding-top: 80px;
+    font-size: 19px
+}
+.linkn{
+    margin-top:50px;
+
+}
+.linkn a{
+    background-color: #343a40;
+    border-color: #343a40;
+padding: 27px 60px;
+    border-radius: 3px;
+
+}
+.aa{
+ color:yellow;
+ padding-top: 20px
+}
+
+
+.merkez-hisse{
+    padding-top:30px
+}
+.mm{
+    padding-top: 40px;
+    font-size: 40px;
+    color: #fff
+
+
+}
+.yeni-movzu{
+    text-align: center;
+    background-color: #1d809f
+}
+.services{
+    background:#1d809f;
+    height: 300px;
+}
+.services-box .icons{
+    background: #fff;
+    padding: 60px;
+    border-radius:100%;
+    width:13%;
+    margin: 0 auto;
+}
+.services-box{
+    text-align: center;
+    padding: 60px 0;
+}
+.vv{
+    text-align:center;
+    color: #fff;
+    padding-top: 10px
+}
+.nm{
+    padding-top:20px;
+    color: #fff
+
+}
+.aw{
+    color: #fff;
+   padding-top:10px;}
+   .rw{
+       color: white;
+       padding-top:10px;
+   }
+   .pp{
+       color: #fff;
+       padding-top:20px
+   }
+   .ii{
+       color: #fff;
+       padding-top: 10px
+   }
+   .ee{
+       color: #fff;
+       padding-top:10px
+   }
+.port-box{
+    height: 300px;
+ margin: 5px;
+    background: rgb(21, 255, 0)
+}
+.port-box:hover{
+    animation: Ferid  1s infinite
+}
+@keyframes Ferid{
+    0%{
+        transform: scale(1)
+    }
+    100%{ transform: scale(0.8)
+
+    }
+}
